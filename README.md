@@ -1,6 +1,6 @@
 # kerplunk-filters-markread
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Filter actions to mark ActivityItems as read or unread
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-filters-markread.svg)](https://travis-ci.org/brianshaler/kerplunk-filters-markread)
 [![npm version](https://img.shields.io/npm/v/kerplunk-filters-markread.svg)](https://www.npmjs.com/package/kerplunk-filters-markread)
