@@ -2,7 +2,7 @@
   "name": "kerplunk-filters-markread",
   "displayName": "Filter Actions: Mark Read/Unread",
   "description": "Filter actions to mark ActivityItems as read or unread",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-filters"
